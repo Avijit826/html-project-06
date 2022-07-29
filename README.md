@@ -15,6 +15,7 @@ This is a landing page
      - Relation between relative and absolute position
  - Efficient use of `flex` property
 - Using external fonts
+- use HTML and CSS in same file
 
      
 ### Time taken to finish the project
